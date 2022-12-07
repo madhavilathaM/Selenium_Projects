@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-20T16:00:47 IST" name="Default suite" finished-at="2022-11-20T16:00:56 IST" duration-ms="9357">
+    <groups>
+    </groups>
+    <test started-at="2022-11-20T16:00:47 IST" name="Default test" finished-at="2022-11-20T16:00:56 IST" duration-ms="9357">
+      <class name="demoframework.test123$annaoTESTNG">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:demoframework.test123$annaoTESTNG@2c1b194a]" started-at="2022-11-20T16:00:47 IST" name="beforetest" finished-at="2022-11-20T16:00:56 IST" duration-ms="8884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="bat()[pri:0, instance:demoframework.test123$annaoTESTNG@2c1b194a]" started-at="2022-11-20T16:00:56 IST" name="bat" finished-at="2022-11-20T16:00:56 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bat -->
+        <test-method signature="apple()[pri:1, instance:demoframework.test123$annaoTESTNG@2c1b194a]" started-at="2022-11-20T16:00:56 IST" name="apple" finished-at="2022-11-20T16:00:56 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method signature="car()[pri:2, instance:demoframework.test123$annaoTESTNG@2c1b194a]" started-at="2022-11-20T16:00:56 IST" name="car" finished-at="2022-11-20T16:00:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:demoframework.test123$annaoTESTNG@2c1b194a]" started-at="2022-11-20T16:00:56 IST" name="aftertest" finished-at="2022-11-20T16:00:56 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- demoframework.test123$annaoTESTNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
